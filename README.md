@@ -1,0 +1,2 @@
+# cryptoshare
+Terra and its native DeFi ecosystem have flourished in the last few months, and we've been inspired not only by its incredible technical capabilities but also the fabulous community and talent building across all verticals on Terra. As many of the core DeFi primitives are beginning to launch on mainnet, we see a unique opportunity to allows friends and family to split expenditures more easily from across the Terra ecosystem and package them in a friendly and accessible interface for consumers.
